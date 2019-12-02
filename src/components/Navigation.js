@@ -24,7 +24,7 @@ class Navigation extends Component {
             )}
             {!user && (
               <a className="nav-item nav-link" href="/register">
-                register
+                registe
               </a>
             )}
             {user && (
